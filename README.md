@@ -1,10 +1,12 @@
 # Openbot
 
-we are early stage
+## contracts
 
-previous art:
+we are early stage. token has an associated treasury. traders 
+deposit/withdraw funds from brokerage.
 
-* ETH
+## previous art
+
 * the DAO
 * Uniswap - AMM
 * OlympusDAO - Treasury and bonding
